@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/cron/touch_webhook</url>
+    <description>Send get request to webhook endpoint URL.</description>
+    <schedule>every fri 10:40</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+</cronentries>
