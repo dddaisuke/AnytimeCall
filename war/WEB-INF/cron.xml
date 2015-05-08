@@ -3,7 +3,7 @@
   <cron>
     <url>/cron/touch_webhook</url>
     <description>Send get request to webhook endpoint URL.</description>
-    <schedule>every fri 10:40</schedule>
+    <schedule>every fri 11:00</schedule>
     <timezone>Asia/Tokyo</timezone>
   </cron>
 </cronentries>
