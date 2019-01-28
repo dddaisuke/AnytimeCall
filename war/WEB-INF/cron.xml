@@ -6,4 +6,10 @@
     <schedule>every fri 11:00</schedule>
     <timezone>Asia/Tokyo</timezone>
   </cron>
+  <cron>
+    <url>/cron/create_engineer_mtg_log</url>
+    <description>Send get request to webhook endpoint URL for create engineer mtg log.</description>
+    <schedule>every monday 11:30</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
 </cronentries>
